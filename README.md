@@ -5,8 +5,9 @@ Code Challenge for Bunnings
 Assumptions:
 
 View Compatibility is best with Chrome. ie has some issues with html5 and thymeleaf fields.
-Click "Mega Merge" to initiate the load and merge
 "Mega Merge" option can be leveraged anytime after a couple of data manipulations as well
+1st Click on "Mega Merge" will merge from input csv files
+Subsequent clicks will perform merge based on data in h2 db.
 'Show All Catalogs" option will display all the catalogs together. This does not mean its merged. Always click "Mega Merge" to view the merged catalog"
 The merged catalog is also opened in output.csv file on your desktop for viewing convenience.
 In BAU Mode, when a catalog is deleted all its associations are deleted as well to maintain referential integrity
