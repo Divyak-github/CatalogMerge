@@ -18,7 +18,7 @@ input data files are placed under resources/input folder of the project. The mer
 
 Commands Used to run the application:  
 Launch Command line window: 
-Catalogmerge> mvn package (10-15 seconds)
-Catalogmerge > java -jar target/Catalogmerge-0.1.jar
+Catalogmerge> mvn package 
+Catalogmerge> java -jar target/CatalogMerge-0.1.jar
 
 Launch application at: http://localhost:8080/
